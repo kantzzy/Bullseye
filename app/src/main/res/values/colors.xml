@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorPrimary">#008577</color>
-    <color name="fundo">#504F4F</color>
-    <color name="botao">#FF6822</color>
+    <color name="fundo">#353030</color>
+    <color name="botao">#FF5300</color>
+    <color name="botao2">#FF6822</color>
+    <color name="botao3">#FC8F03</color>
+    <color name="botao4">#FF9736</color>
 </resources>
