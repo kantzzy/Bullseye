@@ -6,4 +6,7 @@
     <color name="botao2">#00B8FF</color>
     <color name="botao3">#00E2FF</color>
     <color name="botao4">#00FAFA</color>
+
+    <color name="fund">#FFFFFF</color>
+
 </resources>
